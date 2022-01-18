@@ -1,0 +1,74 @@
+{
+    "dependencies": [
+        {
+            "name": "com.enderlook.event_manager",
+            "hash": "0b4ee5fad0b376725cd65f20727021e3c430f634",
+            "url": "https://github.com/Enderlook/Unity-Net-Packages.git?path=Packages/com.enderlook.event_manager#com.enderlook.event_manager/v0.3.1"
+        },
+        {
+            "name": "com.enderlook.text",
+            "hash": "06f050d45d57f91939b4c92b134a0f399bb45d14",
+            "url": "https://github.com/Enderlook/Unity-Net-Packages.git?path=Packages/com.enderlook.text#com.enderlook.text/v1.0.0"
+        },
+        {
+            "name": "com.enderlook.unity.audio_manager",
+            "hash": "a7bbec2306c20d9962208a23325ad1bd86f8bad7",
+            "url": "https://github.com/Enderlook/Unity-Audio-Manager.git?path=Packages/com.enderlook.unity.audio_manager#com.enderlook.unity.audio_manager/v0.4.3"
+        },
+        {
+            "name": "com.enderlook.unity.toolset",
+            "hash": "6f50e66698a9bae8dc5aca5a7c576937f5718f9f",
+            "url": "https://github.com/Enderlook/Unity-Toolset.git?path=Packages/com.enderlook.unity.toolset#com.enderlook.unity.toolset/v0.5.3"
+        },
+        {
+            "name": "com.system.buffers",
+            "hash": "842c2cae1b41589606841297c3cc49d09fc73648",
+            "url": "https://github.com/Enderlook/Unity-Net-Packages.git?path=Packages/com.system.buffers#com.system.buffers/v4.5.1"
+        },
+        {
+            "name": "com.system.runtime.compiler_services.unsafe",
+            "hash": "4e1388856d84de15006350d375973450c3eb04dd",
+            "url": "https://github.com/Enderlook/Unity-Net-Packages.git?path=Packages/com.system.runtime.compiler_services.unsafe#com.system.runtime.compiler_services.unsafe/v4.5.3"
+        },
+        {
+            "name": "com.enderlook.enumerables",
+            "hash": "ce2dabc481180100cdb63909fb88354aa3095b43",
+            "url": "https://github.com/Enderlook/Unity-Net-Packages.git?path=Packages/com.enderlook.enumerables#com.enderlook.enumerables/v1.0.1"
+        },
+        {
+            "name": "com.enderlook.unity.toolset.checking",
+            "hash": "bb111fdd79e64fd1498bfe41eb32910c2fc0a8db",
+            "url": "https://github.com/Enderlook/Unity-Toolset.git?path=Packages/com.enderlook.unity.toolset.checking#com.enderlook.unity.toolset.checking/v0.1.1"
+        },
+        {
+            "name": "com.enderlook.unity.utils.math",
+            "hash": "deb2912770d197ad206aebf417c0d1332605a945",
+            "url": "https://github.com/Enderlook/Unity-Extras.git?path=Packages/com.enderlook.unity.utils.math#com.enderlook.unity.utils.math/v0.1.0"
+        },
+        {
+            "name": "com.enderlook.reflection",
+            "hash": "aaf9dec47eba17607bcebd13d7c18383d68f682d",
+            "url": "https://github.com/Enderlook/Unity-Net-Packages.git?path=Packages/com.enderlook.reflection#com.enderlook.reflection/v0.1.0"
+        },
+        {
+            "name": "com.enderlook.utils",
+            "hash": "33fc5ce35bceea30f10f754ae7752995b8dec10b",
+            "url": "https://github.com/Enderlook/Unity-Net-Packages.git?path=Packages/com.enderlook.utils#com.enderlook.utils/v0.1.0"
+        },
+        {
+            "name": "com.enderlook.unity.utils",
+            "hash": "844af26083e3dd795eb060d96c65af8c4d2e9363",
+            "url": "https://github.com/Enderlook/Unity-Extras.git?path=Packages/com.enderlook.unity.utils#com.enderlook.unity.utils/v0.1.0"
+        },
+        {
+            "name": "com.enderlook.net_compatibility",
+            "hash": "7be4e4fc8ac7bdf16bd89d10c453b180bc466381",
+            "url": "https://github.com/Enderlook/Unity-Net-Packages.git?path=Packages/com.enderlook.net_compatibility#com.enderlook.net_compatibility/v0.5.0"
+        },
+        {
+            "name": "com.system.memory",
+            "hash": "b0ec3817f35dedf57c54f6aaafa2485c31e69b35",
+            "url": "https://github.com/Enderlook/Unity-Net-Packages.git?path=Packages/com.system.memory#com.system.memory/v4.5.4"
+        }
+    ]
+}
